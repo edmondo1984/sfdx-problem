@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>1 CEO</fullName>
+        <default>false</default>
+        <label>CEO</label>
+    </customValue>
+    <customValue>
+        <fullName>3 LENDING MANAGER I</fullName>
+        <default>false</default>
+        <label>LENDING MANAGER I</label>
+    </customValue>
+    <customValue>
+        <fullName>4 LENDING MANAGER II</fullName>
+        <default>false</default>
+        <label>LENDING MANAGER II</label>
+    </customValue>
+    <customValue>
+        <fullName>5 LENDING MANAGER III</fullName>
+        <default>false</default>
+        <label>LENDING MANAGER III</label>
+    </customValue>
+    <customValue>
+        <fullName>2 LENDING OFFICER</fullName>
+        <default>false</default>
+        <label>LENDING OFFICER</label>
+    </customValue>
+    <customValue>
+        <fullName>6 UNDERWRITER I</fullName>
+        <default>false</default>
+        <label>UNDERWRITER I</label>
+    </customValue>
+    <masterLabel>Lending Authority</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
